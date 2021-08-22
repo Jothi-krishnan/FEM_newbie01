@@ -27,6 +27,7 @@ body{
     height: 575px;
     width: 375px;
     border-radius: 20px;
+    box-shadow: 10px 10px 20px hsla(245, 75%, 52%, 0.1), 15px 15px 30px hsla(245, 75%, 52%, 0.1);
 }
 
 .card, .card h2, .card p, .link2, .pay, .osum, .proceed, .coverpic{
@@ -114,6 +115,7 @@ body{
     background-color: hsl(245, 75%, 52%);
     color: white; 
     font-size: 12px; 
+    box-shadow: 10px 10px 20px hsla(245, 75%, 52%, 0.15), 15px 15px 30px hsla(245, 75%, 52%, 0.15);
 }
 
 .proceed :hover{
